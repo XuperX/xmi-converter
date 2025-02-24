@@ -1,0 +1,52 @@
+{
+    "211": {
+        "xmi_id": "211",
+        "begin": 0,
+        "end": 9,
+        "label": "Span",
+        "id": "211",
+        "token": "gene data"
+    },
+    "217": {
+        "xmi_id": "217",
+        "begin": 23,
+        "end": 30,
+        "label": "Database",
+        "id": "217",
+        "token": "GenBank ."
+    },
+    "228": {
+        "xmi_id": "228",
+        "begin": 32,
+        "end": 40,
+        "label": "Database",
+        "id": "228",
+        "token": "GeneBank"
+    },
+    "246": {
+        "xmi_id": "246",
+        "begin": 13,
+        "end": 19,
+        "label": "Operation",
+        "id": "246",
+        "token": "stored"
+    },
+    "233": {
+        "xmi_id": "233",
+        "begin": 60,
+        "end": 67,
+        "label": "Operation",
+        "id": "233",
+        "scale": "key",
+        "token": "anylise"
+    },
+    "240": {
+        "xmi_id": "240",
+        "begin": 46,
+        "end": 56,
+        "label": "Algorithm",
+        "id": "240",
+        "stats": "isStats",
+        "token": "statitiscs"
+    }
+}

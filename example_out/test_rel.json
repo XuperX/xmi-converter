@@ -1,0 +1,14 @@
+[
+    {
+        "xmi_id": "222",
+        "label": "InputOf",
+        "rel_dep": "GenBank .",
+        "rel_gov": "gene data"
+    },
+    {
+        "xmi_id": "253",
+        "label": "HasMeans",
+        "rel_dep": "statitiscs",
+        "rel_gov": "GeneBank"
+    }
+]
